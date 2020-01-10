@@ -14,7 +14,7 @@ setup(
     ],
     entry_points='''
         [console_scripts]
-        qmc0dec=qmc0dec.decode:cli
+        qmc0dec=qmc0dec.decode:decode
     ''',
     keywords = "qmc0 qmc3 qmcogg qmcflac",
     license = "MIT",
